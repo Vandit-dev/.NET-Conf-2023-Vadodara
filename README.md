@@ -1,6 +1,6 @@
 # .NET-Conf-2023-Vadodara
 
-![.NET Conf Logo](.net_conf_logo.png)
+![.NET Conf Logo](https://github.com/Vandit-dev/.NET-Conf-2023-Vadodara/blob/main/net_conf_logo.png)
 
 Welcome to the NET Conf 2023 Vadodara repository! This is your one-stop destination for all details and announcements regarding the upcoming .NET Conf event in Vadodara.
 
